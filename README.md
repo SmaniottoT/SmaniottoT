@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Node.js and SQL**
 
-- 📫 How to reach me **smaniotto.t@gmail.com**
+- 📫 You can reach me through **smaniotto.t@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
