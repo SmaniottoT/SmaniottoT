@@ -3,9 +3,9 @@
 
 <p align="justify">I graduated as a Civil Engineer in 2018 and have been working in the field ever since, gaining expertise in infrastructure and drainage engineering, budgeting, worksheets, and public administration engineering. I look forward to contributing my engineering expertise to the tech industry, improving my problem-solving skills and analytical mindset.</p>
 
-- 🔭 I’m currently working on [Entra 21 2023 - Node.js](https://github.com/SmaniottoT/Entra21-2023_Node.js)
+- 🔭 Take a look into my [Integration Project from Entra21/2023](https://github.com/SmaniottoT/Alerta_Cheias)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and Node.js**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Node.js and SQL**
 
 - 📫 How to reach me **smaniotto.t@gmail.com**
 
